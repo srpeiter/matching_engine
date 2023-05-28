@@ -33,3 +33,5 @@
 
 #debugging 
 *.dSYM
+*.dSYM/
+
